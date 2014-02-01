@@ -875,7 +875,7 @@ then begin
 
 
   dbms_scheduler.enable(p_job_name);
-  if l_os_mode in ('ORACLE') then dbms_scheduler.run_job(p_job_name,FALSE); end if;   /*
+  if l_os_mode in ('ORACLE') then dbms_scheduler.run_job(p_job_name,FALSE); end if;   */
 
 end;
 elsif l_os_mode='UNIX' then
