@@ -1,1 +1,1 @@
-This file will decribe the installation of DREAM in detail
+This file will decribe the installation of DREAM in detail.
